@@ -179,7 +179,7 @@ If you look closely to my Github repo you'll see the original license, provided 
 
 User experience
 
-It is basicaaly a one pager that consists of multiple image boxes hence making it faily easy to use and to implement as long as you keep in mind to make sure you use the correct path. 
+It is basically a one pager that consists of multiple image boxes hence making it faily easy to use and to implement as long as you keep in mind to make sure you use the correct path. 
 
 Most of the layout is divided in sections that are easy to manage and to rename according to your preference. 
 
