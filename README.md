@@ -185,7 +185,7 @@ Most of the layout is divided in sections that are easy to manage and to rename 
 
 The Sass directory contains all the scss-files, referring to the sections, icons etc... So if you are not sure where something is, just checkout you html code and look up the reference.
 
-All the colors can be found in the libs/_vars for a good overview, just make sure you double check the var names and you'll be able to change the colorscheme of the entire page. 
+All the colors can be found in the libs/_vars map/file for a good overview, just make sure you double check the var names and you'll be able to change the colorscheme of the entire page. You can look up the variable by checking out the typography.scss.
 
 
 
