@@ -164,6 +164,8 @@ Credits:
 ----------------------------
 Part two / READ ME ADDITIONS
 
+This template has been downloaded from https://html5up.net/.
+
 First of all I would like to credit AJ, the maker of this template. It is thanks to his hard work that I could whip out a decent looking webpage in just a few hours. All credit for the layout and more belongs to them. 
 
 As you can see and read this is an extremely easy template to use and adapt. 
@@ -174,7 +176,7 @@ All the pictures used belong to Super Soep. They are merely used as an illustrat
 
 INSTALLATION
 
-All you have to do is download the directory and open it via your IDE and just start to adjust and adapt it to your own desires. 
+All you have to do is download the directory and open it via your IDE and just start to adjust and adapt to your own desire. 
 
 
 
