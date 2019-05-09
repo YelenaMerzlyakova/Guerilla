@@ -185,7 +185,7 @@ CHANGELOG
 
 9th of May 2019
 
-This template has been adapted to my own requirement.  I have added my own images and changed the colors, icons and repurposed some of the sections. 
+This template has been adapted to my own requirement.  I have added my own images and changed the colors, icons and repurposed some of the sections. I have also changed the color of the form beacuse it was lacking visibility and needed a little enhancement. Just like the font. The colorscheme was inoffensive but made it lightly unreadble, especially when used on a device with a smaller screen. 
 
 
 USER EXPERIENCE
@@ -198,6 +198,8 @@ The Sass directory contains all the scss-files, referring to the sections, icons
 
 All the colors can be found in the libs/_vars map/file for a good overview, just make sure you double check the var names and you'll be able to change the colorscheme of the entire page. You can look up the variable by checking out the typography.scss.
 
+
+Pay attention to the form, it might me to light to be visible so make changes accordingly.
 
 BUGS
 
