@@ -1,6 +1,8 @@
 Read me 
 
-This is a compilation of a README created for the used template and my own additons. 
+This is a compilation of a README created for the used template and my own additons.
+
+Read the second part for my additions.
 
 ---------------------------
 Part one / Template Read me (original creator)
