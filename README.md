@@ -199,5 +199,7 @@ The Sass directory contains all the scss-files, referring to the sections, icons
 All the colors can be found in the libs/_vars map/file for a good overview, just make sure you double check the var names and you'll be able to change the colorscheme of the entire page. You can look up the variable by checking out the typography.scss.
 
 
+BUGS
 
+When implementing my own gallery I had some problems with the path to my images. For some reason creating a path to the directories images/fulls was not working and I had to use a roundabout way to make sure my images were being displayed. I just moved the images used in the gallery and put them in the main directory, that way no filepath was required. 
 
