@@ -172,7 +172,7 @@ As you can see and read this is an extremely easy template to use and adapt.
 
 INSTALLATION
 
-The template is easy to use, all you have to do is download the directory and open it via your IDE and just start to adjust and adapt it to your own desires. 
+All you have to do is download the directory and open it via your IDE and just start to adjust and adapt it to your own desires. 
 
 
 
