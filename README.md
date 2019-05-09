@@ -162,22 +162,33 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 ----------------------------
-Part two / Read me additions
+Part two / READ ME ADDITIONS
 
 First of all I would like to credit AJ, the maker of this template. It is thanks to his hard work that I could whip out a decent looking webpage in just a few hours. All credit for the layout and more belongs to them. 
 
 As you can see and read this is an extremely easy template to use and adapt. 
 
 
-Installation
+
+INSTALLATION
 
 The template is easy to use, all you have to do is download the directory and open it via your IDE and just start to adjust and adapt it to your own desires. 
 
-License
+
+
+LICENSE
 
 If you look closely to my Github repo you'll see the original license, provided by the creator themselves. Check it out if you need to. 
 
-User experience
+
+CHANGELOG
+
+9th of May 2019
+
+This template has been adapted to my own requirement.  I have added my own images and changed the colors, icons and repurposed some of the sections. 
+
+
+USER EXPERIENCE
 
 It is basically a one pager that consists of multiple image boxes hence making it faily easy to use and to implement as long as you keep in mind to make sure you use the correct path. 
 
