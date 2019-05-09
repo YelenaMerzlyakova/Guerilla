@@ -168,6 +168,8 @@ First of all I would like to credit AJ, the maker of this template. It is thanks
 
 As you can see and read this is an extremely easy template to use and adapt. 
 
+All the pictures used belong to Super Soep. They are merely used as an illustration. 
+
 
 
 INSTALLATION
