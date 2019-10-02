@@ -24,25 +24,25 @@ All the pictures used belong to Super Soep. They are merely used as an illustrat
 
 
 
-*INSTALLATION
+* INSTALLATION
 
 All you have to do is download the directory and open it via your IDE and just start to adjust and adapt to your own desire. 
 
 
 
-*LICENSE
+* LICENSE
 
 If you look closely to my Github repo you'll see the original license, provided by the creator themselves. Check it out if you need to. 
 
 
-*CHANGELOG
+* CHANGELOG
 
 9th of May 2019
 
 This template has been adapted to my own requirement.  I have added my own images and changed the colors, icons and repurposed some of the sections. I have also changed the color of the form beacuse it was lacking visibility and needed a little enhancement. Just like the font. The colorscheme was inoffensive but made it lightly unreadble, especially when used on a device with a smaller screen. 
 
 
-*USER EXPERIENCE
+* USER EXPERIENCE
 
 It is basically a one pager that consists of multiple image boxes hence making it faily easy to use and to implement as long as you keep in mind to make sure you use the correct path. 
 
@@ -55,12 +55,12 @@ All the colors can be found in the libs/_vars map/file for a good overview, just
 
 Pay attention to the form, it might me to light to be visible so make changes accordingly.
 
-*BUGS
+* BUGS
 
 When implementing my own gallery I had some problems with the path to my images. For some reason creating a path to the directories images/fulls was not working and I had to use a roundabout way to make sure my images were being displayed. I just moved the images used in the gallery and put them in the main directory, that way no filepath was required. 
 
 
-*SASS
+* SASS
 
 Knowledge of SASS is expected.
 
