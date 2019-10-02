@@ -4,7 +4,7 @@
 
 Improve on a existing webpage assigned to you. 
 
-Mine was [SuperSoep](https://www.supersoep.be/)
+Mine was [SuperSoep](https://www.supersoep.be/) (original website)
 
 Usage of a template was encouraged. 
 
