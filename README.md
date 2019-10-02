@@ -12,6 +12,11 @@ Usage of a template was encouraged.
 
 [Want some Soup?](https://yelenamerzlyakova.github.io/Guerilla/)
 
+
+![supersoep](https://github.com/YelenaMerzlyakova/Guerilla/blob/master/supersoepfront.png)
+
+![supersoep](https://github.com/YelenaMerzlyakova/Guerilla/blob/master/supersoeplocation.png)
+
 ## Experience
 
 This template has been downloaded from https://html5up.net/.
