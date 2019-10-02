@@ -6,7 +6,7 @@ Improve on a existing webpage assigned to you.
 
 Mine was [SuperSoep](https://www.supersoep.be/) (original website)
 
-Usage of a template was encouraged. 
+Usage of a template was encouraged but I gave my own spin to it, check it out! 
 
 ## Result 
 
@@ -16,7 +16,7 @@ Usage of a template was encouraged.
 ![supersoep](https://github.com/YelenaMerzlyakova/Guerilla/blob/master/supersoepfront.png)
 
 
-** Her is the first time I have used iframes.
+** Her is the first time I have used iframes.**
 
 ![supersoep](https://github.com/YelenaMerzlyakova/Guerilla/blob/master/supersoeplocation.png)
 
