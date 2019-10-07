@@ -22,7 +22,7 @@ Usage of a template was encouraged but I gave my own spin to it, check it out!
 
 ## Experience
 
-This template has been downloaded from https://html5up.net/.
+This template has been downloaded from https://html5up.net/. 
 
 First of all I would like to credit AJ, the maker of this template. It is thanks to his hard work that I could whip out a decent looking webpage in just a few hours. All credit for the layout and more belongs to them. 
 
